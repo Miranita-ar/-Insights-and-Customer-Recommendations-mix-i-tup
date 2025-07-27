@@ -1,1 +1,6 @@
 # -Insights-and-Customer-Recommendations-mix-i-tup
+This project explores customer behavior and purchasing patterns at an ice cream store, using a real-world dataset (eskrim.csv) from the MixITup collection. The dataset contains categorical variables such as gender, ice cream flavor, and day of visit. The goal of the analysis was to identify how these factors influence customer preferences and traffic trends throughout the week. Using Python along with libraries like pandas, matplotlib, and seaborn, I performed data cleaning, exploratory analysis, and visualizations to uncover meaningful insights.
+
+The analysis revealed that vanilla is the most preferred flavor among both male and female customers, while chocolate is the least favored by male customers yet remains popular among females. Additionally, Monday was found to have the highest customer traffic, followed by Sunday, with significantly fewer visitors observed from Tuesday to Friday. These findings can support decision-making in areas such as inventory planning, promotional targeting, and scheduling.
+
+This project demonstrates my ability to apply data analysis techniques to categorical variables, extract business-relevant insights from real-world data, and communicate findings clearly. It also strengthened my skills in exploratory data analysis and data visualization using Python.
